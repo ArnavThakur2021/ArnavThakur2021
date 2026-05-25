@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there , I'm Arnav Kumar Thakur 👋
+    
+🐍 Python enthusiast
+⚙️ Interested in Data Science , Deep Learning and full stack development.
+🌱 Always learning new concepts and coding logic
+☕ Powered by curiosity and coffee
 
 <!--
 **ArnavThakur2021/ArnavThakur2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
