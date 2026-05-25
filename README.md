@@ -1,8 +1,12 @@
 ## Hi there , I'm Arnav Kumar Thakur 👋
     
+
 🐍 Python enthusiast
+
 ⚙️ Interested in Data Science , Deep Learning and full stack development.
+
 🌱 Always learning new concepts and coding logic
+
 ☕ Powered by curiosity and coffee
 
 <!--
