@@ -2,20 +2,27 @@
 <h3 align="center">SDE / Infra / Quant • B.Tech IT @ VIT Vellore '28</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lsnnt&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=arnavthakur2021&label=Profile%20Views&color=blue&style=flat" />
 </p>
+
 ---
 
 ### 🧭 About me 
 
 - 🎓 B.Tech Information Technology , VIT Vellore (2028)
+  
 -🐍 Python enthusiast
--⚙️ Interested in Data Science , Deep Learning and full stack development.
--🌱 Always learning new concepts and coding logic
--☕ Powered by curiosity and coffee
-- ✒️ Off-keyboard: cricket, gym & cooking
 
+-⚙️ Interested in Data Science , Deep Learning and full stack development.
+
+-🌱 Always learning new concepts and coding logic
+
+-☕ Powered by curiosity and coffee
+
+- ✒️ Off-keyboard: cricket, gym & cooking
+  
 ---
+
 ### 📫 Reach Me
 
 [Portfolio](https://akt.lsnnt.dev)
