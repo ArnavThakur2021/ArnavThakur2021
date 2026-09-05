@@ -1,13 +1,29 @@
-## Hi there , I'm Arnav Kumar Thakur 👋
-    
+<h1 align="center">Hi , I'm Arnav Kumar Thakur 👋</h1>
+<h3 align="center">SDE / Infra / Quant • B.Tech IT @ VIT Vellore '28</h3>
 
-🐍 Python enthusiast
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lsnnt&label=Profile%20Views&color=blue&style=flat" />
+</p>
+---
 
-⚙️ Interested in Data Science , Deep Learning and full stack development.
+### 🧭 About me 
 
-🌱 Always learning new concepts and coding logic
+- 🎓 B.Tech Information Technology , VIT Vellore (2028)
+-🐍 Python enthusiast
+-⚙️ Interested in Data Science , Deep Learning and full stack development.
+-🌱 Always learning new concepts and coding logic
+-☕ Powered by curiosity and coffee
+- ✒️ Off-keyboard: cricket, gym & cooking
 
-☕ Powered by curiosity and coffee
+---
+### 📫 Reach Me
+
+[Portfolio](https://akt.lsnnt.dev)
+
+[Linkedin](https://www.linkedin.com/in/arnav2021/)
+
+[Email](mailto:tarnav879gmail.com)
+
 
 <!--
 **ArnavThakur2021/ArnavThakur2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
